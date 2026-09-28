@@ -12,4 +12,4 @@ systems. Occasionally, that work reaches into robotics.
 
 **elsewhere**
 
-[web ↗](https://meghamsh.com) · [linkedin ↗](https://www.linkedin.com/in/meghamshbalantrapu/) · [instagram ↗](https://www.instagram.com/meghamshb/) · [email ↗](mailto:balantrapumeghamsh@gmail.com)
+[portfolio ↗](https://meghamsh.com) · [linkedin ↗](https://www.linkedin.com/in/meghamshbalantrapu/) · [instagram ↗](https://www.instagram.com/meghamshb/) · [email ↗](mailto:balantrapumeghamsh@gmail.com)
