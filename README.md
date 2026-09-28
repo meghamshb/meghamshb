@@ -1,9 +1,15 @@
-I like building AI systems that leave the demo.
+I like engineering AI systems that actually get deployed.
 
-Computer Engineering at HKU. Mostly working on agents, infrastructure and robotics.
+AI researcher and Computer Engineering student at HKU. Interested in agents, the
+infrastructure around them, and the DevOps work that turns prototypes into reliable
+systems. Occasionally, that work reaches into multimodal retrieval and robotics.
 
-- [AegisMesh](https://github.com/meghamshb/AegisMesh) — default-deny network access for autonomous agents.
-- [VirtualYou](https://github.com/meghamshb/VirtualYou) — an AI work twin that turns activity into updates written like you.
-- [MCP Router](https://github.com/meghamshb/mcprouter) — one place to run and organize local and remote MCP servers.
+**currently**
 
-[meghamsh.com](https://meghamsh.com) · [linkedin](https://www.linkedin.com/in/meghamshbalantrapu/) · [email](mailto:balantrapumeghamsh@gmail.com)
+- [AegisMesh ↗](https://github.com/meghamshb/AegisMesh) — giving autonomous agents default-deny network access.
+- [VirtualYou ↗](https://github.com/meghamshb/VirtualYou) — turning work activity into updates written like you.
+- [MCP Router ↗](https://github.com/meghamshb/mcprouter) — making local and remote MCP servers easier to run.
+
+**elsewhere**
+
+[web ↗](https://meghamsh.com) · [linkedin ↗](https://www.linkedin.com/in/meghamshbalantrapu/) · [instagram ↗](https://www.instagram.com/meghamshb/) · [email ↗](mailto:balantrapumeghamsh@gmail.com)
