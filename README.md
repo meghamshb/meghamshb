@@ -4,7 +4,7 @@ AI researcher and Computer Engineering student at HKU. Interested in agents, the
 infrastructure around them, and the DevOps work that turns prototypes into reliable
 systems. Occasionally, that work reaches into robotics.
 
-**currently**
+**sidequests**
 
 - [AegisMesh ↗](https://github.com/meghamshb/AegisMesh) — giving autonomous agents default-deny network access.
 - [VirtualYou ↗](https://github.com/meghamshb/VirtualYou) — turning work activity into updates written like you.
